@@ -6,9 +6,9 @@ Created with QT
 <br>
 ![](Images/1.png?raw=true)
 <br>
-![](Images/2png?raw=true)
+![](Images/2.png?raw=true)
 <br>
-![](Images/3png?raw=true)
+![](Images/3.png?raw=true)
 <br>
-![](Images/4png?raw=true)
+![](Images/4.png?raw=true)
 <br>
